@@ -1,6 +1,6 @@
 # random-redpack
 
-## js 版本模仿微信红吧算法
+## js 版本模仿微信红包算法
 
 ###
 ```shell
